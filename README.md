@@ -9,3 +9,10 @@
 🟠Enthusiast learning data related technologies and tools.
 <br>
 🟠Data is related to everything
+# Skills till date
+🔴C programming<br>
+🔴Java<br>
+🔴HTML<br>
+🔴CSS<br>
+🔴PHP<br>
+🔴MySQL
