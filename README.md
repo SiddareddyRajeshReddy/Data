@@ -1,5 +1,5 @@
 # ME
-🔵SIDDAREDDY RAJESH REDDY
+🔵Siddareddy Rajesh Reddy
 <br>
 🔵Department of Computer Science and Engineering
 <br>
