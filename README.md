@@ -6,7 +6,7 @@
 🔵National Institute of Technology, Sikkim
 # MY INTEREST
 🟠Interested in Developments<br>
-🟠Enthusiast learning data related technologies and tools.
+🟠Enthusiast for learning data related technologies and tools.
 <br>
 🟠Data is related to everything
 # Skills till date
